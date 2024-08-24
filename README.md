@@ -1,2 +1,2 @@
 ## Recipes
-**Creating a website with links to recipes.
+Creating a website with links to recipes.
