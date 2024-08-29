@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(5, 56, 69);
+    font-size: 50px;
+}
+
+/* ul {
+    font-size: 1.5rem;
+} */
+
+body {    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(0,255,255);
+    font-size: 1.5rem;
+}
+
+#lemon-pasta {
+    background-color: rgba(176, 230, 49, 0.763);
+}
+
+#peaches {
+    background-color: peachpuff;
+}
+
+#lu-rou-fan {
+    background-color: rgb(224, 156, 74);
+}
